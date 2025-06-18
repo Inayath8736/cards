@@ -1,0 +1,128 @@
+ body {
+            margin: 0;
+            padding: 0;
+            background-color: #bde0fe;
+            display: flex;
+            flex-direction: column;
+        }
+
+        h1 {
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: xx-large;
+            color: black;
+            text-align: center;
+            margin-top: 70px;
+        }
+
+        .container {
+            width: 420px;
+            height: 400px;
+            margin: auto;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            z-index: 1;
+        }
+
+        .card {
+            width: 90px;
+            height: 100px;
+            background-color: #ffafcc;
+            border: white 2px solid;
+            border-radius: 5px;
+            color: transparent;
+            font-family: bold;
+            font-size: 60px;
+            text-align: center;
+            line-height: 100px;
+        }
+        .card :hover{
+            color: transparent;
+        }
+
+        .timer {
+            width: 200px;
+            height: 100px;
+            background-color: black;
+            color: whitesmoke;
+            border-radius: 5px;
+            border: darkslategray 2px solid;
+            float: right;
+            margin-bottom: 20px;
+            align-self: flex-end;
+            bottom: 300px;
+            right: 100px;
+            position: relative;
+            text-align: center;
+            line-height: 100px;
+            font-size: 50px;
+            display: flex;
+        }
+
+        .reset {
+            width: 120px;
+            height: 40px;
+            color: yellow;
+            background-color: black;
+            border: 2px gray solid;
+            border-radius: 5px;
+            margin: auto;
+            text-align: center;
+            line-height: 40px;
+            box-shadow: rgba(0, 0, 0, 0.5);
+        }
+
+        .submit {
+            width: 100px;
+            height: 40px;
+            color: yellow;
+            background-color: black;
+            border: 2px gray solid;
+            border-radius: 5px;
+            text-align: center;
+            line-height: 40px;
+            box-shadow: rgba(0, 0, 0, 0.5);
+            float: left;
+            bottom: 600px;
+            left: 150px;
+            display: flex;
+            position: relative;
+            padding-left: 10px;
+        }
+
+        .points {
+            position: relative;
+            bottom: 500px;
+            left: 150px;
+            z-index: 0;
+        }
+
+        table,
+        th,
+        td {
+            border: lightyellow 3px solid;
+            background-color: lightcoral;
+            border-collapse: collapse;
+        }
+
+        th {
+            width: 90px;
+            height: 60px;
+            font-size: x-large;
+            color: black;
+        }
+
+        td {
+            width: 90px;
+            height: 50px;
+            background-color: lightseagreen;
+            font-size: xx-large;
+            text-align: center;
+            line-height: 50px;
+        }
+
+        .minute {
+            margin-left: 30px;
+            margin-right: 30px;
+
+        }
