@@ -15,7 +15,7 @@ Matching cards turn green and remain face-up, earning you a point.  <br>
 
 Non-matching cards flip back over after a short delay.  <br>
 
-<h3> Submit (Compulsory) </h3> : Confirm your two-card selection to check for a match.   <br>
+<h3> Submit (Compulsory) : </h3>  Confirm your two-card selection to check for a match.   <br>
 
 Timer & Points: Track your time and score on screen.  <br>
 
@@ -37,7 +37,7 @@ Clear visual feedback  <br>
 
 Game end notification  <br>
 
-<h3> Technologies Used </h3>  <br>
+<h2> Technologies Used </h2>  <br>
 
 HTML5  <br>
 
