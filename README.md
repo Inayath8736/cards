@@ -1,42 +1,46 @@
 # cards
-Guess The Card Game
+<h1> Guess The Card Game </h1> <br>
+
 This is a memory card game built with HTML, CSS, and JavaScript, where the goal is to find all matching pairs of cards.
 
-How to Play
-Start: The game begins automatically or by clicking "Reset".
+ <h3> How to Play </h3>  <br>
+ 
+Start: The game begins automatically or by clicking "Reset".  <br>
 
-Flip Cards: Click two cards to reveal their letters.
+Flip Cards: Click two cards to reveal their letters.  <br>
 
-Find Matches:
+ <h3> Find Matches: </h3>  <br>
 
-Matching cards turn green and remain face-up, earning you a point.
+Matching cards turn green and remain face-up, earning you a point.  <br>
 
-Non-matching cards flip back over after a short delay.
+Non-matching cards flip back over after a short delay.  <br>
 
-Submit (Compulsory): Confirm your two-card selection to check for a match.
+<h3> Submit (Compulsory) </h3> : Confirm your two-card selection to check for a match.   <br>
 
-Timer & Points: Track your time and score on screen.
+Timer & Points: Track your time and score on screen.  <br>
 
-Win: The game ends when all 8 pairs are matched, showing your completion time.
+Win: The game ends when all 8 pairs are matched, showing your completion time.  <br>
 
-Reset: Start a new game at any time.
+Reset: Start a new game at any time.  <br>
 
-Features
-Memory matching gameplay
+ <h2> Features </h2>  <br>
+ 
+Memory matching gameplay  <br>
 
-Dynamic card shuffling
+Dynamic card shuffling   <br>
 
-Timer and score tracking
+Timer and score tracking  <br>
 
-Responsive design
+Responsive design   <br>
 
-Clear visual feedback
+Clear visual feedback  <br>
 
-Game end notification
+Game end notification  <br>
 
-Technologies Used
-HTML5
+<h3> Technologies Used </h3>  <br>
 
-CSS3 
+HTML5  <br>
 
-JavaScript 
+CSS3  <br>
+
+JavaScript  <br>
