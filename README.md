@@ -1,5 +1,4 @@
-# Cards
-<h1> Guess The Card Game </h1> <br>
+# Guess The Card Game 
 
 This is a memory card game built with HTML, CSS, and JavaScript, where the goal is to find all matching pairs of cards.
 
